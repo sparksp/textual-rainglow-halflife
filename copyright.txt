@@ -1,0 +1,3 @@
+This style is based on the built-in Simplified Dark style using colours from
+Rainglow's Halflife by Dayle Rees (https://github.com/rainglow), adapted for
+Textual by Phill Sparks in 2020.
